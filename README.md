@@ -1,7 +1,7 @@
 Agent
 =====
 
-[![Latest Stable Version](http://img.shields.io/packagist/v/icemix/agent.svg)](https://packagist.org/packages/icemix/agent) [![Total Downloads](http://img.shields.io/packagist/dm/icemix/agent.svg)](https://packagist.org/packages/icemix/agent) [![Build Status](http://img.shields.io/travis/icemix/agent.svg)](https://travis-ci.org/icemix/agent) [![Coverage Status](http://img.shields.io/coveralls/icemix/agent.svg)](https://coveralls.io/r/icemix/agent) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/icemix)
+[![Latest Stable Version](http://img.shields.io/packagist/v/icemix/agent.svg)](https://packagist.org/packages/icemix/agent) [![Total Downloads](http://img.shields.io/packagist/dm/icemix/agent.svg)](https://packagist.org/packages/icemix/agent) [![Build Status](http://img.shields.io/travis/icemix/agent.svg)](https://travis-ci.org/icemix/agent) [![Coverage Status](http://img.shields.io/coveralls/icemix/agent.svg)](https://coveralls.io/r/icemix/agent) 
 
 A PHP desktop/mobile user agent parser with support for Laravel, based on [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) with desktop support and additional functionality.
 
